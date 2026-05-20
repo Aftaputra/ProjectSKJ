@@ -8,7 +8,7 @@ WebServer server(80);
 
 // ================= PINS =================
 #define TRIG_PIN 5
-#define ECHO_PIxN 18
+#define ECHO_PIN 18
 #define PIR_PIN 19
 
 // ================= GLOBALS =================
